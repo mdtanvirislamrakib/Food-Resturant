@@ -69,7 +69,7 @@
 }
 
 #card-box {
-    width: 884px;
+    /* width: 884px; */
     margin: 111px 201px 123px 201px;
     border: 1px dashed grey;
     padding: 15px;
