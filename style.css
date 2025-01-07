@@ -73,6 +73,11 @@
     margin: 111px 201px 123px 201px;
     border: 1px dashed grey;
     padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 #card-box .title {
@@ -112,7 +117,7 @@
     width: 284px;
 }
 .card .image-box img {
-    width: 100%;
+    width: 270px;
 }
 .card .shop {
     padding: 9px 21px 9px 21px;
